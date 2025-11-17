@@ -1,0 +1,5 @@
+{
+  "name": "Convertisseur PDF en Livre Audio",
+  "description": "Converts chapters from a PDF book into audio files that you can listen to and download.",
+  "requestFramePermissions": []
+}
